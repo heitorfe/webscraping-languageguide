@@ -1,0 +1,8 @@
+beautifulsoup4
+selenium 
+pandas
+webdriver-manager
+eng_to_ipa
+openpyxl
+
+#python -m ipykernel install --user --name venv
